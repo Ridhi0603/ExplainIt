@@ -69,3 +69,25 @@ Some things I'd like to explore in the future:
 ## 👩‍💻 About
 
 ExplainIt was built as a personal learning project while exploring Python, AI APIs, Streamlit, and application development.
+
+## 📸 Screenshots
+
+### 🏠 Main Interface
+
+![Main Interface](screenshots/main.png)
+
+### 🤖 AI-Generated Explanation
+
+![AI-Generated Explanation](screenshots/explanation.png)
+
+### 📚 History
+
+![History](screenshots/history.png)
+
+### 💡 Explain Differently
+
+![Explain Differently](screenshots/explain_differently.png)
+
+### 👍👎 Feedback
+
+![Feedback](screenshots/feedback.png)
